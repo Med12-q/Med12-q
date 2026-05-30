@@ -1,187 +1,294 @@
-# 🚀 VARNOX - Full-Stack Developer & Bot Automation Expert
-
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                   💻 Web Developer | 🤖 Bot Creator | 🛍️ Script Vendor   ║
-║                                                                           ║
-║  Turning ideas into powerful digital solutions with cutting-edge tech     ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 👋 Welcome to My Digital Universe / Bienvenue dans Mon Univers Numérique
-
-Je suis **VARNOX**, un développeur full-stack passionné et expert en automatisation spécialisé dans la création de **sites web dynamiques**, de **bots intelligents** et de **scripts premium**. Avec une expertise dans plusieurs technologies, je transforme des idées complexes en solutions élégantes et scalables.
-
-I'm **VARNOX**, a passionate full-stack developer and automation expert specializing in creating **dynamic websites**, **intelligent bots**, and **premium scripts**. With expertise across multiple technologies, I transform complex ideas into elegant, scalable solutions.
-
-🌐 **Official Store / Boutique Officielle**: [VARNOX Store - Premium Scripts & Solutions](https://varnox-storesite.varnoxnovark.workers.dev/)
-
----
-
-## 🛠️ Arsenal Technique / Technical Arsenal
-
-### 🎨 Frontend Development
-- **HTML5** | Advanced semantic markup & accessibility
-- **CSS3** | Responsive design, animations, modern layouts
-- **JavaScript** | Vanilla JS, ES6+, DOM manipulation
-- **Frontend Frameworks** | React, Vue.js integration
-
-### ⚙️ Backend Development
-- **Node.js** | Express.js, REST APIs, real-time applications
-- **Python** | Django, Flask, automation scripts
-- **PHP** | Laravel, WordPress custom development
-- **Database Management** | MySQL, MongoDB, PostgreSQL
-
-### 🤖 Bot Automation & Integration
-- **WhatsApp Bot Development** | Automated messaging, business solutions
-- **Telegram Bot Development** | Interactive bots, command systems, webhooks
-- **Bot Frameworks** | Baileys, node-telegram-bot-api, python-telegram-bot
-- **API Integration** | Third-party integrations, data synchronization
-
-### 🌐 Web Development
-- **Full-Stack Applications** | E-commerce, SaaS platforms, web apps
-- **Responsive Design** | Mobile-first approach, cross-browser compatibility
-- **Server Management** | Cloudflare Workers, Node.js hosting, deployment
-- **Performance Optimization** | Caching, optimization, SEO
-
-### 📦 Additional Skills / Compétences Additionnelles
-- **Git & Version Control** | GitHub, branch management, collaboration
-- **API Development** | RESTful APIs, GraphQL basics
-- **Web Scraping** | Data extraction, automation
-- **Script Development** | Custom solutions for specific needs
-
----
-
-## 🎯 Core Competencies / Compétences Principales
-
-| Category | Expertise |
-|----------|-----------|
-| **Web Development** | Full-stack website creation, e-commerce platforms, responsive design |
-| **Bot Automation** | WhatsApp & Telegram bots, intelligent automation, business integration |
-| **Script Development** | Custom scripts for various purposes, premium solutions |
-| **API Integration** | Third-party APIs, webhooks, data management |
-| **Database Design** | Relational & NoSQL databases, optimization |
-| **Cloud Solutions** | Cloudflare Workers, serverless architecture |
-
----
-
-## 💼 What I Offer / Ce Que Je Propose
-
-### 🌐 **Custom Websites / Sites Web Personnalisés**
-- Professional business websites / Sites professionnels
-- E-commerce platforms / Plateformes e-commerce
-- Real-time web applications / Applications web en temps réel
-- High-performance solutions / Solutions haute performance
-
-### 🤖 **Automation Bots / Bots d'Automatisation**
-- WhatsApp bot solutions for business automation
-- Telegram bots with advanced features
-- Multi-platform automation systems
-- Integration with existing services
-
-### 📜 **Premium Scripts / Scripts Premium**
-- Ready-to-use custom scripts
-- Business automation tools
-- Bot scripts for popular platforms
-- Exclusive solutions available on [VARNOX Store](https://varnox-storesite.varnoxnovark.workers.dev/)
-
----
-
-## 🚀 Featured Projects / Projets Vedettes
-
-### 🛍️ VARNOX Script Store
-Une plateforme complète pour acheter des scripts premium et des solutions d'automatisation.
-
-A comprehensive platform for purchasing premium scripts and automation solutions.
-- **Features**: Secure transactions, instant delivery, customer support
-- **Tech Stack**: Modern web technologies, secure payment integration
-- **Visit**: [https://varnox-storesite.varnoxnovark.workers.dev/](https://varnox-storesite.varnoxnovark.workers.dev/)
-
-### 🤖 Bot Automation Solutions
-Custom WhatsApp and Telegram bots for business automation and customer engagement.
-- **Capabilities**: Message automation, command processing, webhook integration
-- **Use Cases**: Customer support, marketing, business operations
-
-### 💻 Web Applications
-Full-stack applications built with modern technologies for optimal performance.
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Med12-q&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Med12-q&layout=compact&theme=radical&hide_border=true)
-
----
-
-## 🤝 Let's Connect! / Connectons-nous!
-
-Je suis toujours ouvert aux collaborations, projets et nouvelles opportunités.
-
-I'm always open to collaborations, projects, and new opportunities.
-
+<!-- Header Banner with Gradient -->
 <div align="center">
 
-### 📱 Contact Me / Contactez-moi
+![VARNOX Banner](https://via.placeholder.com/1200x300/0a0e27/00d4ff?text=VARNOX+%7C+Full-Stack+Developer+%7C+Bot+Automation+Expert)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+224610835573)
-[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Varnox_Or_novark)
+<!-- Animated Welcome Message -->
+## 🌟 **VARNOX** - *Where Innovation Meets Excellence* 🌟
 
-### 🌐 My Presence / Ma Présence
+```
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║   ██╗   ██╗ █████╗ ██████╗ ███╗   ██╗ ██████╗ ██╗  ██╗                    ║
+║   ██║   ██║██╔══██╗██╔══██╗████╗  ██║██╔═══██╗╚██╗██╔╝                    ║
+║   ██║   ██║███████║██████╔╝██╔██╗ ██║██║   ██║ ╚███╔╝                     ║
+║   ╚██╗ ██╔╝██╔══██║██╔══██╗██║╚██╗██║██║   ██║ ██╔██╗                     ║
+║    ╚████╔╝ ██║  ██║██║  ██║██║ ╚████║╚██████╔╝██╔╝ ██╗                    ║
+║     ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝                    ║
+║                                                                            ║
+║           💻 Web Developer | 🤖 Bot Automation | 🛍️ Script Creator       ║
+║                   🌍 Full-Stack Solutions | 🔥 Premium Quality            ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
 
-[![Website](https://img.shields.io/badge/Store-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://varnox-storesite.varnoxnovark.workers.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Med12-q)
+---
+
+## 🎯 **PROFESSIONAL EXPERTISE & CAPABILITIES**
+
+<img src="https://via.placeholder.com/1000x100/00d4ff/0a0e27?text=CUTTING-EDGE+TECHNOLOGY+SOLUTIONS" alt="Tech Solutions">
 
 </div>
 
 ---
 
-## 💡 Why Choose VARNOX? / Pourquoi Choisir VARNOX?
+### 📋 **ABOUT ME**
 
-✅ **Expertise** - Multiple technologies mastered / Plusieurs technologies maîtrisées  
-✅ **Reliability** - Professional, deadline-driven approach / Approche professionnelle et ponctuelle  
-✅ **Quality** - Clean, optimized, production-ready code / Code propre, optimisé et prêt pour la production  
-✅ **Support** - Available for updates and maintenance / Disponible pour les mises à jour et la maintenance  
-✅ **Innovation** - Always using latest technologies / Toujours utiliser les dernières technologies  
-✅ **Scalability** - Solutions designed to grow with you / Solutions conçues pour croître avec vous  
+I am **VARNOX**, a dedicated full-stack developer and automation expert with deep expertise in building **scalable web applications**, creating **intelligent bot systems**, and delivering **premium digital solutions**.
+
+Je suis **VARNOX**, un développeur full-stack passionné et expert en automatisation avec une expertise approfondie dans la création d'**applications web scalables**, la conception de **systèmes de bots intelligents** et la livraison de **solutions numériques premium**.
 
 ---
 
-## 📈 Current Focus / Focus Actuel
+## 🛠️ **TECHNICAL EXPERTISE**
 
-🔄 Expanding bot automation capabilities / Expansion des capacités d'automatisation des bots  
-🌟 Developing advanced web solutions / Développement de solutions web avancées  
-🚀 Growing the VARNOX script marketplace / Développement de la place de marché des scripts VARNOX  
-💼 Building long-term partnerships with clients / Construire des partenariats à long terme avec les clients  
+<div align="center">
+
+| **Frontend Development** | **Backend Development** | **Bot Automation** |
+|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![WhatsApp](https://img.shields.io/badge/WhatsApp_Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Telegram](https://img.shields.io/badge/Telegram_Bot-0088cc?style=for-the-badge&logo=telegram&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![API Integration](https://img.shields.io/badge/API_Integration-FF6B6B?style=for-the-badge&logo=api&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Automation](https://img.shields.io/badge/Bot_Frameworks-4CAF50?style=for-the-badge&logo=automation&logoColor=white) |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![Webhooks](https://img.shields.io/badge/Webhooks-9B59B6?style=for-the-badge&logo=webhook&logoColor=white) |
+
+</div>
 
 ---
 
-## 🎓 Philosophy / Philosophie
+### 💾 **DATABASE & INFRASTRUCTURE**
 
-*"Code is not just about functionality; it's about creating solutions that make a real difference in people's lives. Every project is an opportunity to innovate, learn, and deliver excellence."*
+<div align="center">
 
-*« Le code n'est pas seulement une question de fonctionnalité ; il s'agit de créer des solutions qui font une réelle différence dans la vie des gens. Chaque projet est une opportunité d'innover, d'apprendre et de livrer l'excellence. »*
+| MySQL | MongoDB | PostgreSQL | Cloudflare Workers | AWS | Docker |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+
+</div>
+
+---
+
+## 🚀 **SERVICES & SOLUTIONS**
+
+<div align="center">
+
+### 🌐 **WEB DEVELOPMENT EXCELLENCE**
+```
+┌─────────────────────────────────────┐
+│  ✨ Full-Stack Web Applications     │
+│  🛍️  E-Commerce Platforms           │
+│  📊 Real-Time Data Dashboards       │
+│  ⚡ High-Performance Optimized Code  │
+│  🔒 Secure & Scalable Solutions     │
+└─────────────────────────────────────┘
+```
+
+### 🤖 **BOT AUTOMATION SOLUTIONS**
+```
+┌─────────────────────────────────────┐
+│  💬 WhatsApp Bot Development        │
+│  📱 Telegram Bot Solutions          │
+│  🔄 Business Automation Systems     │
+│  📞 Customer Engagement Tools       │
+│  🔗 API Integration & Webhooks      │
+└─────────────────────────────────────┘
+```
+
+### 📜 **PREMIUM SCRIPTS & TOOLS**
+```
+┌─────────────────────────────────────┐
+│  🛒 Ready-to-Use Custom Scripts     │
+│  🎯 Business Automation Tools       │
+│  🔧 Custom Solutions                │
+│  📦 Exclusive VARNOX Collection     │
+│  🚀 Enterprise-Grade Quality        │
+└─────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📊 **COMPETENCY MATRIX**
+
+<div align="center">
+
+```
+WEB DEVELOPMENT        ████████████████████ 100%
+BOT AUTOMATION         ███████████████████░  95%
+FULL-STACK SOLUTIONS   ████████████████████ 100%
+DATABASE DESIGN        █████████████████░░░  90%
+API DEVELOPMENT        ███████████████████░  95%
+CLOUD ARCHITECTURE     ████████████████░░░░  85%
+```
+
+</div>
+
+---
+
+## 🎯 **FEATURED PROJECTS**
+
+<div align="center">
+
+### 🏆 **VARNOX PREMIUM SCRIPT STORE**
+
+<img src="https://via.placeholder.com/900x200/0a0e27/00d4ff?text=VARNOX+Store+-+Premium+Scripts+%26+Solutions" alt="VARNOX Store">
+
+A cutting-edge e-commerce platform featuring premium automation scripts and digital solutions.
+
+**🔗 [Visit VARNOX Store](https://varnox-storesite.varnoxnovark.workers.dev/)**
+
+**Key Features:**
+- 🔐 Secure Payment Gateway
+- ⚡ Instant Digital Delivery
+- 💬 24/7 Customer Support
+- 🎁 Exclusive Premium Solutions
+- 📈 Regular Updates & Improvements
+
+---
+
+### 🤖 **ADVANCED BOT AUTOMATION SYSTEMS**
+
+Custom WhatsApp and Telegram bot solutions for enterprise-level automation.
+
+- ✅ Message Automation & Scheduling
+- ✅ Interactive Command Systems
+- ✅ Webhook & API Integration
+- ✅ Multi-User Management
+- ✅ Analytics & Reporting
+
+---
+
+### 💻 **FULL-STACK WEB APPLICATIONS**
+
+Enterprise-grade web applications built with modern technology stacks.
+
+- ✅ Responsive Design (Mobile-First)
+- ✅ Real-Time Data Processing
+- ✅ Secure Authentication Systems
+- ✅ Database Optimization
+- ✅ SEO & Performance Tuning
+
+</div>
+
+---
+
+## 📈 **GITHUB STATISTICS**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Med12-q&show_icons=true&theme=radical&hide_border=true&bg_color=0a0e27&text_color=00d4ff&border_color=00d4ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Med12-q&layout=compact&theme=radical&hide_border=true&bg_color=0a0e27&text_color=00d4ff&border_color=00d4ff)
+
+</div>
+
+---
+
+## 💡 **WHY CHOOSE VARNOX?**
+
+<div align="center">
+
+| 🎯 **EXPERTISE** | 🔒 **RELIABILITY** | 💎 **QUALITY** | 🚀 **INNOVATION** |
+|:---:|:---:|:---:|:---:|
+| Multiple technologies mastered | Professional & punctual approach | Clean & optimized code | Latest technology stack |
+| 5+ years of experience | Deadline-driven delivery | Production-ready solutions | Continuous learning |
+| Industry best practices | 24/7 support available | Security-first approach | Future-proof design |
+| Proven track record | Client satisfaction focused | Scalable architecture | Cutting-edge tools |
+
+</div>
+
+---
+
+## 🌍 **LET'S WORK TOGETHER**
+
+<div align="center">
+
+### 📱 **CONNECT WITH ME**
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0e27)](https://wa.me/+224610835573)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0a0e27)](https://t.me/Varnox_Or_novark)
+[![Email](https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27)](mailto:your.email@example.com)
+
+### 🔗 **MY DIGITAL PRESENCE**
+
+[![Store](https://img.shields.io/badge/VARNOX_Store-FFD700?style=for-the-badge&logo=shopping&logoColor=black&labelColor=0a0e27)](https://varnox-storesite.varnoxnovark.workers.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27)](https://github.com/Med12-q)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=world&logoColor=white&labelColor=0a0e27)](https://varnox-storesite.varnoxnovark.workers.dev/)
+
+</div>
+
+---
+
+## 📝 **CURRENT FOCUS & ROADMAP**
+
+<div align="center">
+
+| 🔄 **Q2 2026** | 🌟 **Q3 2026** | 🚀 **Q4 2026** | 💼 **2027** |
+|:---:|:---:|:---:|:---:|
+| Bot Automation Expansion | Advanced Web Solutions | VARNOX Marketplace Growth | Enterprise Partnerships |
+| New Script Releases | AI Integration | Mobile App Development | Global Expansion |
+| Performance Optimization | API Ecosystem | Premium Services | Team Building |
+
+</div>
+
+---
+
+## 🎓 **PROFESSIONAL PHILOSOPHY**
+
+<div align="center">
+
+> *"Code transcends functionality—it creates digital solutions that transform lives. Every project is an opportunity to innovate, learn, and deliver uncompromising excellence. I don't just write code; I architect the future."*
+
+---
+
+> *« Le code transcende la fonctionnalité—il crée des solutions numériques qui transforment les vies. Chaque projet est une opportunité d'innover, d'apprendre et de livrer une excellence sans compromis. Je n'écris pas seulement du code ; j'architécte l'avenir. »*
+
+</div>
+
+---
+
+## 📊 **SERVICES PRICING & PACKAGES**
+
+<div align="center">
+
+### ⭐ **AVAILABLE SOLUTIONS**
+
+| Package | Scope | Delivery | Support |
+|:---:|:---:|:---:|:---:|
+| **STARTER** | Basic Scripts & Tools | 3-5 Days | Email Support |
+| **PROFESSIONAL** | Custom Web Solutions | 7-14 Days | 24/7 Priority Support |
+| **ENTERPRISE** | Full-Stack Systems | Custom Timeline | Dedicated Manager |
+
+**→ [Explore All Services](https://varnox-storesite.varnoxnovark.workers.dev/)**
+
+</div>
 
 ---
 
 <div align="center">
 
-### 📝 Let's Build Something Amazing Together! / Construisons quelque chose d'incroyable ensemble!
+## 🌟 **READY TO ELEVATE YOUR DIGITAL PRESENCE?**
 
-**[📞 Contact on WhatsApp](https://wa.me/+224610835573)** | **[💬 Message on Telegram](https://t.me/Varnox_Or_novark)** | **[🛒 Visit My Store](https://varnox-storesite.varnoxnovark.workers.dev/)**
+<img src="https://via.placeholder.com/800x150/00d4ff/0a0e27?text=LET%27S+BUILD+SOMETHING+EXTRAORDINARY+TOGETHER" alt="Call to Action">
+
+### 🔗 **Get Started Today**
+
+**[📞 WhatsApp](https://wa.me/+224610835573)** • **[💬 Telegram](https://t.me/Varnox_Or_novark)** • **[🛒 Store](https://varnox-storesite.varnoxnovark.workers.dev/)**
 
 ---
 
-⭐ If you find my work valuable, please consider starring my repositories and sharing them with your network!
-
-⭐ Si vous trouvez mon travail précieux, veuillez considérer l'étoile de mes dépôts et les partager avec votre réseau!
+### ⭐ **If you find my work valuable, please star my repositories!**
 
 ```
-Last Updated: 2026-05-30
-© 2026 VARNOX - All Rights Reserved
+╔════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║                    © 2026 VARNOX - All Rights Reserved                    ║
+║                  Crafting Digital Excellence | One Solution at a Time      ║
+║                                                                            ║
+╚════════════════════════════════════════════════════════════════════════════╝
 ```
+
+Last Updated: **May 30, 2026** | Version: **2.0 - Professional Edition**
 
 </div>
